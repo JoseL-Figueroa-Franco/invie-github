@@ -1,2 +1,2 @@
 # invie-github
-Avance Curso Git / GitHub
+Avance Curso Git / GitHub by @Dragonatak
